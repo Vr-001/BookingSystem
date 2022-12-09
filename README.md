@@ -1,2 +1,3 @@
 # Python-Mini-project
-Cinema booking system made in python and mySQL
+Made using python and MySql 
+A simple Ticket booking sytem
